@@ -1,0 +1,17 @@
+{
+  "name": "Custom Cast",
+  "short_name": "CC",
+  "description": "Cast anything from your own backend",
+  "scope": "/custom-cast/",
+  "start_url": "/custom-cast/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/custom-cast/icon.png",
+      "type": "image/png",
+      "sizes": "700x700"
+    }
+  ]
+}
